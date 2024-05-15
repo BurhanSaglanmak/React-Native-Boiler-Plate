@@ -7,7 +7,7 @@ This project includes a comprehensive setup with essential libraries and tools t
 
 - React Native: The core framework for building mobile apps.
 - Redux: For state management.
-- React Navigation: For handling navigation within the app.
+- React Navigation: For handling navigation within the app. Default Login Page, HomePage, Profile Page
 - TypeScript: For type safety and improved developer experience.
 - Jest: For testing.
 - ESLint and Prettier: For code quality and formatting.
