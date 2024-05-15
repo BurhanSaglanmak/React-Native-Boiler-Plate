@@ -1,3 +1,17 @@
+# React Native BoilerPlate Redux
+
+## Welcome to the React Native BoilerPlate Redux project! This project serves as a starting point for developing mobile applications using React Native, integrated with Redux for state management and React Navigation for routing. Below you'll find essential information to get you started with this boilerplate.
+
+# Project Overview
+This project includes a comprehensive setup with essential libraries and tools to streamline the development process. Here’s a summary of what’s included:
+
+- React Native: The core framework for building mobile apps.
+- Redux: For state management.
+- React Navigation: For handling navigation within the app.
+- TypeScript: For type safety and improved developer experience.
+- Jest: For testing.
+- ESLint and Prettier: For code quality and formatting.
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
