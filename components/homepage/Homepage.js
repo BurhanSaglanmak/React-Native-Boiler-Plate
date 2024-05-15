@@ -9,7 +9,7 @@ function Homepage() {
 
   return (
     <View>
-      <Text>Homepage</Text>
+      <Text>Homepage.</Text>
       <View style={stylesHomepage.row}>
         <TouchableOpacity
           style={stylesHomepage.button}
